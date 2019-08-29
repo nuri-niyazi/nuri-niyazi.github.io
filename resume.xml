@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="resume.xsl" ?>
+<cv>
+
+    <basic>
+        <name>Nuri Niyazi Nuri</name>
+        <email>nuritoty@gmail.com</email>
+        <location>Shumen, Bulgaria</location>
+        <summary
+                xmlns="http://www.w3.org/1999/xhtml">
+            Software developer with 3+ years of experience in development of applications.
+            Well-versed in technology and writing code to create systems that are reliable and user-friendly.
+            I have a very strong sense of quality awareness and am constantly trying to achieve the greatest possible benefit for the customer within the resources available.
+            Amongst my particular strengths are a rapid but still very precise way of working, great flexibility, and the willingness to familiarize myself within a short time in new technologies and areas of responsibility.
+        </summary>
+    </basic>
+
+    <jobs>
+        <job>
+            <position>Software Developer</position>
+            <company>CRUDL</company>
+            <start>Nov 2016</start>
+            <end>Present</end>
+            <location>Shumen, Bulgaria</location>
+        </job>
+        <job>
+            <position>Trainee Software Developer</position>
+            <company>CRUDL</company>
+            <start>August 2015</start>
+            <end>February 2016</end>
+            <location>Shumen, Bulgaria</location>
+        </job>
+        <job>
+            <position>Trainee Software Developer</position>
+            <company>Programista</company>
+            <start>May 2015</start>
+            <end>August  2015</end>
+            <location>Shumen, Bulgaria</location>
+        </job>
+    </jobs>
+
+    <projects>
+        <project>
+            <name>Primeholding</name>
+            <year>2019</year>
+            <description>End-to-end develop a MuleSoft connector</description>
+            <role>Software Developer</role>
+            <technologies>Java/JEE/Mule Expression Language</technologies>
+        </project>
+        <project>
+            <name>Vodman</name>
+            <year>2018</year>
+            <description>
+                Downloading multimedia, editing it (splitting, merging, inserting images, etc.) in a specified way from the UI, generate info xml and reupload the finished files to predefined destination.
+            </description>
+            <role>Programer software applications</role>
+            <technologies>Java/JEE, JavaScript/AngularJS/AngularMaterial, FFmpeg</technologies>
+        </project>
+        <project>
+            <name>Autoservicebg</name>
+            <year>2018</year>
+            <description>Registration and administration of vehicles, parts and repairs needed for them in a specialized car workshop.
+            </description>
+            <role>Programer software applications</role>
+            <technologies>Java/JEE, JavaScript/OpenUI5</technologies>
+        </project>
+        <project>
+            <name>Miragile</name>
+            <year>2017</year>
+            <description>Web-based project management and issue tracking tool
+            </description>
+            <role>Programer software applications</role>
+            <technologies>Java/JEE, JavaScript/OpenUI5</technologies>
+        </project>
+        <project>
+            <name>HireHip</name>
+            <year>2017</year>
+            <description>Job posting platform integrated with Facebook custom page Tabs.
+            </description>
+            <role>Programer software applications</role>
+            <technologies>Java/JEE, JavaScript/Angular/Angular Material, Boostrap</technologies>
+        </project>
+
+        <project>
+            <name>Vessel Tracking and Analytics</name>
+            <year>2015</year>
+            <description>By analyzing maritime information using complex
+                patterns
+                and algorithms the system recognizes different vessel
+                movement
+                phases, different vessel tasks, alerts on non-usual vessel
+                behavior.
+            </description>
+            <role>Trainee-programer software applications</role>
+            <technologies>Java/JEE, JavaScript/AngularJS</technologies>
+        </project>
+    </projects>
+
+    <skills>
+        <skill>Data Structures and Algorithms</skill>
+        <skill>Object Oriented Programming</skill>
+        <skill>Design Patterns</skill>
+        <skill>Databases</skill>
+        <skill>Experienced team player</skill>
+        <skill>Java SE/EE</skill>
+        <skill>Spring Boot</skill>
+        <skill>SQL</skill>
+        <skill>JavaScript/jQuery</skill>
+        <skill>AngularJS</skill>
+        <skill>HTML5/DHTML/CSS</skill>
+        <skill>XML/XPath</skill>
+        <skill>C/C++</skill>
+        <skill>PHP</skill>
+        <skill>Node.js</skill>
+    </skills>
+
+    <languages>
+        <language>English</language>
+        <language>Bulgarian</language>
+        <language>Turkish</language>
+    </languages>
+
+    <certifications>
+        <certification>
+            <name>Bulgarian National Student Olympiad in Informatics - 2017</name>
+            <description>Bulgarian National Student Olympiad in Informatics - 2017</description>
+        </certification>
+        <certification>
+            <name>Certificate of Participation in Programming Tournament - Tatarstan, Russia - 2015</name>
+            <description>Certificate of Participation in Programming Tournament - Tatarstan  , Russia - 2015</description>
+        </certification>
+        <certification>
+            <name>Gold medal in “Dean Cup Tournament” in Informatics , Shumen university - 2014</name>
+            <description>Gold medal in “Dean Cup Tournament” in Informatics , Shumen university - 2014</description>
+        </certification>
+        <certification>
+            <name>Bronze medal in  National Student Olympiad in Computer Mathematics (CompMath), Hisarya, Bulgaria - 2014</name>
+            <description>Bronze medal in  National Student Olympiad in Computer Mathematics (CompMath), Hisarya, Bulgaria - 2014</description>
+        </certification>
+        <certification>
+            <name>Certificate of Achievement ACM SEERC 2014, Bucharest, Romania, 2014</name>
+            <description>Certificate of Achievement ACM SEERC 2014, Bucharest, Romania, 2014</description>
+        </certification>
+        <certification>
+            <name>Certificate of Achievement ACM SEERC 2013, Bucharest, Romania, 2013</name>
+            <description>Certificate of Achievement ACM SEERC 2013, Bucharest, Romania, 2013</description>
+        </certification>
+    </certifications>
+
+    <education>
+        <school>
+            <head>Master of Science in Software Engineering</head>
+            <from>2016</from>
+            <to>2017</to>
+            <location>Shumen, Bulgaria</location>
+        </school>
+        <school>
+            <head>Bachelor of Science in Informatics</head>
+            <from>2012</from>
+            <to>2016</to>
+            <location>Shumen, Bulgaria</location>
+        </school>
+        <school>
+            <head>Professional Maths and Science High School "Nancho Popovich"</head>
+            <from>2008</from>
+            <to>2012</to>
+            <location>Shumen, Bulgaria</location>
+        </school>
+    </education>
+
+</cv>
